@@ -2,7 +2,7 @@
 
 In the context of this project, a dataset of neural spike trains are recorded from a monkey's motor cortext while it was doing a task involving moving a pointer on a screen.
 
-_The original data was recorded for the paper ["Population coding of conditional probability distributions in dorsal premotor cortex" (Glaser et al. 2018)](https://www.nature.com/articles/s41467-018-04062-6)._
+> _The original data was recorded for the paper ["Population coding of conditional probability distributions in dorsal premotor cortex" (Glaser et al. 2018)](https://www.nature.com/articles/s41467-018-04062-6)._
 
 <p align="center">
     <img src="Cartoon_Refined.jpg"  width=75% height=75%>
